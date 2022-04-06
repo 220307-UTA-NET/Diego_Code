@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "StoreApplication.App/1.0.0": {
+        "dependencies": {
+          "StoreApplication.Logic": "1.0.0"
+        },
+        "runtime": {
+          "StoreApplication.App.dll": {}
+        }
+      },
+      "StoreApplication.Logic/1.0.0": {
+        "runtime": {
+          "StoreApplication.Logic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StoreApplication.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StoreApplication.Logic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
